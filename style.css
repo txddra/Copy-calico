@@ -1,0 +1,27 @@
+* {
+    /* Reset CSS style
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit; 
+    vertical-align: baseline; */
+
+    font-family: "times new roman", sans-serif;
+    color: rgb(19, 18, 18);
+}
+
+
+
+.top-right, .top-left, .top-right p, .top-left p, .bottom-banner p ,.bottom-left, .bottom-right {
+    display: inline;
+    padding: 10px;
+}
+
+form {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.search {
+    width: 25%;
+}
