@@ -1,14 +1,20 @@
 * {
 
-    font-family: "times new roman", sans-serif;
+
+    font-family: "roboto", sans-serif;
     color: rgb(19, 18, 18);
 }
 
+.top-banner{
 
-
+border-image-width: 1px;  
+}
+.top-banner  img{
+    width: 100%;
+}
 .top-right, .top-left, .top-right p, .top-left p, .bottom-banner p ,.bottom-left, .bottom-right {
     display: inline;
-    padding: 10px;
+    padding: 1px;
 }
 
 form {
